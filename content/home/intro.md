@@ -8,6 +8,8 @@ subtitle: ""
 active: true
 design:
   background:
-    color: "#090a0b"
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    # color: "#090a0b"
     text_color_light: true
 ---
