@@ -4,7 +4,7 @@ widget_id: home
 headless: true
 weight: 10
 title: Towards versatile robots
-subtitle: ""
+subtitle: Exploring technologies of tomorrow
 active: true
 design:
   background:
